@@ -1,0 +1,7 @@
+C:\Users\timos\Source\Repos\CalculationsOfTwoIntegers\CalculationsOfTwoIntegers\bin\Debug\CalculationsOfTwoIntegers.exe.config
+C:\Users\timos\Source\Repos\CalculationsOfTwoIntegers\CalculationsOfTwoIntegers\bin\Debug\CalculationsOfTwoIntegers.exe
+C:\Users\timos\Source\Repos\CalculationsOfTwoIntegers\CalculationsOfTwoIntegers\bin\Debug\CalculationsOfTwoIntegers.pdb
+C:\Users\timos\Source\Repos\CalculationsOfTwoIntegers\CalculationsOfTwoIntegers\obj\Debug\CalculationsOfTwoIntegers.csprojAssemblyReference.cache
+C:\Users\timos\Source\Repos\CalculationsOfTwoIntegers\CalculationsOfTwoIntegers\obj\Debug\CalculationsOfTwoIntegers.csproj.CoreCompileInputs.cache
+C:\Users\timos\Source\Repos\CalculationsOfTwoIntegers\CalculationsOfTwoIntegers\obj\Debug\CalculationsOfTwoIntegers.exe
+C:\Users\timos\Source\Repos\CalculationsOfTwoIntegers\CalculationsOfTwoIntegers\obj\Debug\CalculationsOfTwoIntegers.pdb
